@@ -1,0 +1,22 @@
+body{
+text-align: center;
+background-color: darkseagreen
+}
+.menu{
+list-style: none;
+position: absolute;
+top: 10px;
+cursor: pointer
+}
+.links{
+float: left;
+color: aqua;
+font-size: 20px;
+padding-top: 5px;
+padding-bottom: 5px;    
+padding-left: 10px;
+padding-right: 10px    
+}
+.links:hover{
+background-color: white
+}
